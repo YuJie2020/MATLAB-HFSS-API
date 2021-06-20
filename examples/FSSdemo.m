@@ -28,13 +28,13 @@ hfssNewProject(fid);
 hfssInsertDesign(fid, fileName);
 
 % 新增变量
-hfssaddVar(fid, 'p', p, units);
-hfssaddVar(fid, 'h', h, units);
-hfssaddVar(fid, 'hh', hh, units);
-hfssaddVar(fid, 'l', l, units);
-hfssaddVar(fid, 'w', w, units);
-hfssaddVar(fid, 'll', ll, units);
-hfssaddVar(fid, 'ww', ww, units);
+hfssAddVar(fid, 'p', p, units);
+hfssAddVar(fid, 'h', h, units);
+hfssAddVar(fid, 'hh', hh, units);
+hfssAddVar(fid, 'l', l, units);
+hfssAddVar(fid, 'w', w, units);
+hfssAddVar(fid, 'll', ll, units);
+hfssAddVar(fid, 'ww', ww, units);
 
 % 新增优化变量
 hfssAddOptVar(fid, 't', t, units2)
