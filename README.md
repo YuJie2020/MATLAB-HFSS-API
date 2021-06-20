@@ -20,22 +20,22 @@ Files
 
 所有相关的 MATLAB 程序文件存储于以下目录：
 
-3dmodeler/ - 包含用于生成 HFSS 三维模型 VBScript 的 .m 文件
-analysis/ - 包含用于生成 HFSS 分析 (Setup/Solve/Export) 模块 VBScript 的 .m 文件
-boundary/ - 包含用于生成 HFSS 边界条件模块 VBScript 的 .m 文件
-general/ - 包含用于生成 HFSS 项目创建/保存、生成结果、执行仿真等常用操作 VBScript 的 .m 文件
+3dmodeler/ - 包含用于生成 HFSS 三维模型 VBScript 的 .m 文件  
+analysis/ - 包含用于生成 HFSS 分析 (Setup/Solve/Export) 模块 VBScript 的 .m 文件  
+boundary/ - 包含用于生成 HFSS 边界条件模块 VBScript 的 .m 文件  
+general/ - 包含用于生成 HFSS 项目创建/保存、生成结果、执行仿真等常用操作 VBScript 的 .m 文件  
 examples/ - 一个借助 HFSS-MATLAB-API 的频率选择表面分析示例
 
 Author
 -------
 
-Vijay Ramasami,
-RSL, Univ. of Kansas,
-Lawrence, KS, 66046.
+Vijay Ramasami,  
+RSL, Univ. of Kansas,  
+Lawrence, KS, 66046.  
 E-Mail: rvijayc@gmail.com, rvc@ieee.org
 
-Vega Lau,
-CN, Xi'an,
-Xidian University.
+Vega Lau,  
+CN, Xi'an,  
+Xidian University.  
 E-Mail: [VegaLau@qq.com](mailto:VegaLau@qq.com)
 
